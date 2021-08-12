@@ -19,6 +19,9 @@ VuexI18nPlugin.install = function install(Vue, store, config) {
 			moduleName: arguments[2],
 			identifiers: arguments[3]
 		};
+
+
+		asdasdad
 	}
 
 	// merge default options with user supplied options
